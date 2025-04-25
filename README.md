@@ -3,7 +3,7 @@
 A beautifully designed, fully responsive Flower Website built using HTML, CSS, and JavaScript. This project showcases various flower products and sections like hero, 
 services, and contact — perfect for a flower shop or floral portfolio.
 
-###  🔗 Live Preview: Flower Website
+###  🔗 Live Preview: https://amdadislam01.github.io/Flower-website/Index.html
 
 ##  🚀 Features
 

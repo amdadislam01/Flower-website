@@ -33,4 +33,6 @@ Product filtering and category system
 
 ##  🙌 Author
 
-MD. Amdad Islam📧 Email: amdad200063@gmail.com🌐 GitHub: amdadislam01
+MD. Amdad Islam📧 
+Email: amdad200063@gmail.com
+GitHub: amdadislam01
